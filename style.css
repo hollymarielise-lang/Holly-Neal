@@ -1,0 +1,26 @@
+
+body{
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+.container{
+    height: 10vh;
+    background-color: #ebd48f;
+    max-width: 100%;
+    overflow-x: hidden;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+
+    h1{
+        text-align: center;
+        margin-bottom: 250px;
+    }
+
+    p1{
+        text-align: center;
+        text-wrap: inherit;
+    }
+}
